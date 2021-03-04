@@ -1,5 +1,7 @@
 import React from 'react';
 import {Route} from "react-router-dom";
+
+// Components
 import CollectionsOverview from "../../components/CollectionsOverview/CollectionsOverview";
 import CollectionPage from "../CollectionPage/CollectionPage";
 
