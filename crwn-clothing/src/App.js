@@ -13,7 +13,7 @@ import SignInAndSignUpPage from "./pages/SignInAndSignUpPage/SignInAndSignUpPage
 
 // Components
 import Header from "./components/Header/Header";
-import CheckoutPage from "./pages/Checkout/CheckoutPage";
+import CheckoutPage from "./pages/CheckoutPage/CheckoutPage";
 
 // Firebase
 import {auth, createUserProfileDocument} from './firebase/firebase.utils';
